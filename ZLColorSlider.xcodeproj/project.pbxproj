@@ -7,22 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C240A4831D3931F700424DE2 /* map-marker-5.png in Resources */ = {isa = PBXBuildFile; fileRef = C240A4821D3931F700424DE2 /* map-marker-5.png */; };
-		C240A4851D39391600424DE2 /* slider.png in Resources */ = {isa = PBXBuildFile; fileRef = C240A4841D39391600424DE2 /* slider.png */; };
+		C22C237E1D3CE2580019B91C /* slider-color.png in Resources */ = {isa = PBXBuildFile; fileRef = C22C237D1D3CE2580019B91C /* slider-color.png */; };
+		C259B6381D3CD494001D9B77 /* ZLColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = C259B6341D3CD494001D9B77 /* ZLColorSlider.swift */; };
+		C259B63A1D3CD494001D9B77 /* ZLIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C259B6361D3CD494001D9B77 /* ZLIndicatorView.swift */; };
 		C26C84561D35306F0021A424 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26C84551D35306F0021A424 /* AppDelegate.swift */; };
 		C26C84581D3530700021A424 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26C84571D35306F0021A424 /* ViewController.swift */; };
 		C26C845B1D3530710021A424 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C26C84591D3530710021A424 /* Main.storyboard */; };
 		C26C845D1D3530730021A424 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C26C845C1D3530730021A424 /* Assets.xcassets */; };
 		C26C84601D3530730021A424 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C26C845E1D3530730021A424 /* LaunchScreen.storyboard */; };
-		C26C84681D3532DF0021A424 /* ZLColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26C84671D3532DF0021A424 /* ZLColorSlider.swift */; };
-		C26C846A1D3535800021A424 /* ZLGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26C84691D3535800021A424 /* ZLGradientView.swift */; };
-		C26C846F1D35488D0021A424 /* colorTrack.png in Resources */ = {isa = PBXBuildFile; fileRef = C26C846D1D35488D0021A424 /* colorTrack.png */; };
-		C2762A9C1D36357A009E4AB5 /* ZLIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2762A9B1D36357A009E4AB5 /* ZLIndicatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C240A4821D3931F700424DE2 /* map-marker-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "map-marker-5.png"; sourceTree = "<group>"; };
-		C240A4841D39391600424DE2 /* slider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slider.png; sourceTree = "<group>"; };
+		C22C237D1D3CE2580019B91C /* slider-color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slider-color.png"; sourceTree = "<group>"; };
+		C259B6341D3CD494001D9B77 /* ZLColorSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZLColorSlider.swift; sourceTree = "<group>"; };
+		C259B6361D3CD494001D9B77 /* ZLIndicatorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZLIndicatorView.swift; sourceTree = "<group>"; };
 		C26C84521D35306A0021A424 /* ZLColorSlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZLColorSlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C26C84551D35306F0021A424 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C26C84571D35306F0021A424 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -30,10 +28,6 @@
 		C26C845C1D3530730021A424 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C26C845F1D3530730021A424 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C26C84611D3530740021A424 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C26C84671D3532DF0021A424 /* ZLColorSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZLColorSlider.swift; sourceTree = "<group>"; };
-		C26C84691D3535800021A424 /* ZLGradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZLGradientView.swift; sourceTree = "<group>"; };
-		C26C846D1D35488D0021A424 /* colorTrack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colorTrack.png; sourceTree = "<group>"; };
-		C2762A9B1D36357A009E4AB5 /* ZLIndicatorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZLIndicatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +41,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C259B6301D3CD494001D9B77 /* ZLColorSlider */ = {
+			isa = PBXGroup;
+			children = (
+				C259B6311D3CD494001D9B77 /* Assets */,
+				C259B6331D3CD494001D9B77 /* Classes */,
+			);
+			path = ZLColorSlider;
+			sourceTree = "<group>";
+		};
+		C259B6311D3CD494001D9B77 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				C22C237D1D3CE2580019B91C /* slider-color.png */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		C259B6331D3CD494001D9B77 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C259B6341D3CD494001D9B77 /* ZLColorSlider.swift */,
+				C259B6361D3CD494001D9B77 /* ZLIndicatorView.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		C26C84491D3530680021A424 = {
 			isa = PBXGroup;
 			children = (
@@ -66,28 +86,15 @@
 		C26C84541D35306D0021A424 /* ZLColorSlider */ = {
 			isa = PBXGroup;
 			children = (
-				C240A4821D3931F700424DE2 /* map-marker-5.png */,
-				C26C846B1D35488D0021A424 /* Assets */,
+				C259B6301D3CD494001D9B77 /* ZLColorSlider */,
 				C26C84551D35306F0021A424 /* AppDelegate.swift */,
 				C26C84571D35306F0021A424 /* ViewController.swift */,
 				C26C84591D3530710021A424 /* Main.storyboard */,
 				C26C845C1D3530730021A424 /* Assets.xcassets */,
 				C26C845E1D3530730021A424 /* LaunchScreen.storyboard */,
 				C26C84611D3530740021A424 /* Info.plist */,
-				C26C84671D3532DF0021A424 /* ZLColorSlider.swift */,
-				C26C84691D3535800021A424 /* ZLGradientView.swift */,
-				C2762A9B1D36357A009E4AB5 /* ZLIndicatorView.swift */,
 			);
 			path = ZLColorSlider;
-			sourceTree = "<group>";
-		};
-		C26C846B1D35488D0021A424 /* Assets */ = {
-			isa = PBXGroup;
-			children = (
-				C240A4841D39391600424DE2 /* slider.png */,
-				C26C846D1D35488D0021A424 /* colorTrack.png */,
-			);
-			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,10 +157,8 @@
 			files = (
 				C26C84601D3530730021A424 /* LaunchScreen.storyboard in Resources */,
 				C26C845D1D3530730021A424 /* Assets.xcassets in Resources */,
+				C22C237E1D3CE2580019B91C /* slider-color.png in Resources */,
 				C26C845B1D3530710021A424 /* Main.storyboard in Resources */,
-				C240A4831D3931F700424DE2 /* map-marker-5.png in Resources */,
-				C240A4851D39391600424DE2 /* slider.png in Resources */,
-				C26C846F1D35488D0021A424 /* colorTrack.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,9 +171,8 @@
 			files = (
 				C26C84581D3530700021A424 /* ViewController.swift in Sources */,
 				C26C84561D35306F0021A424 /* AppDelegate.swift in Sources */,
-				C2762A9C1D36357A009E4AB5 /* ZLIndicatorView.swift in Sources */,
-				C26C846A1D3535800021A424 /* ZLGradientView.swift in Sources */,
-				C26C84681D3532DF0021A424 /* ZLColorSlider.swift in Sources */,
+				C259B63A1D3CD494001D9B77 /* ZLIndicatorView.swift in Sources */,
+				C259B6381D3CD494001D9B77 /* ZLColorSlider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
