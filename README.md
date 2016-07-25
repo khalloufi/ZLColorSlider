@@ -11,8 +11,6 @@ A simple color slider for iOS.
 
 
 
-## Requirements
-
 ## Installation
 
 Download the repository and add the contents of the ZLColorSlider directory to your project.
@@ -23,6 +21,8 @@ Download the repository and add the contents of the ZLColorSlider directory to y
     self.colorView.backgroundColor = sender.color;
 }
 ```
+## Credits
+Thanks to [Randel](https://github.com/RGSSoftware) for inventing RGSColorSlider.
 ## License
 
 ZLColorSlider is available under the MIT license.
